@@ -1,0 +1,37 @@
+{
+  "youtube": {
+    "நம்ம ஊரு சேனல்": [
+      {
+        "title": "நம்ம ஊரு - அறிமுக வீடியோ",
+        "url": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID",
+        "description": "நம்ம ஊரு பற்றிய அறிமுகம்"
+      },
+      {
+        "title": "மதுரை சிறப்பு நிகழ்வு 2024",
+        "url": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID_2",
+        "description": "மதுரை நகரில் நடந்த சிறப்பு நிகழ்வு"
+      }
+    ],
+    "நகைச்சுவை": [
+      {
+        "title": "தமிழ் நகைச்சுவை - பகுதி 1",
+        "url": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID_3",
+        "description": "சிரிக்க வையுங்கள்"
+      }
+    ],
+    "செய்திகள்": [
+      {
+        "title": "இன்றைய தமிழ் செய்திகள்",
+        "url": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID_4",
+        "description": "இன்றைய முக்கிய செய்திகள்"
+      }
+    ],
+    "சமையல்": [
+      {
+        "title": "தமிழ் சமையல் - பிரியாணி",
+        "url": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID_5",
+        "description": "சுவையான பிரியாணி செய்முறை"
+      }
+    ]
+  }
+}
